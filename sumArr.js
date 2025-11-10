@@ -1,0 +1,8 @@
+
+
+
+function SumArr(arr) {
+    return arr.reduce((acc, curr) => acc + curr, 0);
+}
+
+console.log(SumArr([1, 2, 3, 4, 100])); // Outputs: 110

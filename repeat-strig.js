@@ -1,5 +1,8 @@
 
+// create empty string 
+// loop number to input it  
 
+// put it in empty str 
 
 
 function repeatStr(str, num) {
